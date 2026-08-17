@@ -44,11 +44,14 @@
 
 ## Тема магистерской и общие научные слова
 
-*A Method for Extended Response Analysis for Training and Adaptive Knowledge Control*
+*A Methodology of Adaptive Knowledge Control Based on the Analysis of Extended Responses*  
+*(методика адаптивного контроля знаний на основе анализа развёрнутых ответов)*
 
 | Слово / словосочетание | IPA | Как звучит | Перевод |
 |---|---|---|---|
 | method | /ˈmeθəd/ | **МЕ**-тэд | метод |
+| methodology | /ˌmeθəˈdɒlədʒi/ | мэ-тэ-**ДО**-лэ-джи | методика |
+| based on | /beɪst ɒn/ | **БЕЙСТ** он | на основе |
 | extended response | /ɪkˈstendɪd rɪˈspɒns/ | ик-**СТЕН**-дид ри-**СПОНС** | развёрнутый ответ |
 | analysis | /əˈnæləsɪs/ | э-**НЭ**-лэ-сис | анализ |
 | training | /ˈtreɪnɪŋ/ | **ТРЕЙ**-нинг | обучение |
